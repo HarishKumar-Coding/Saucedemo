@@ -1,0 +1,15 @@
+target/
+webdriver-cache/
+chrome-profile/
+reports/*
+!reports/.gitkeep
+screenshots/*
+!screenshots/.gitkeep
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.log
+.DS_Store
+*.class
